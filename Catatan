@@ -1,0 +1,13 @@
+python punya 2 tipe data
+tipe data primitif dan nonprimitif
+-tipe data primitif yang petama adlah:
+ 1)tipe data integer (int) interger menupakan tipe yang merepresentasikan yang bisa dioperasikan
+ 2)tipe data string(char) merupakan character a-z, 0-9, spesial char
+ untuk tipe data non numerikal
+ string tidak dapat di operasikan layaknya numerik. tipe data string biasa nya diimbuhai tanda ""
+ 3)tipe data float (float) mirip integer namun bisa menggunakan bilangan berkoma
+ 4)tipe data boolean(bool) memiliki tipe true/false
+
+ tips ngoding
+ -buatlah nama variabel yang mudah di baca
+ -membuat dokumentasi
